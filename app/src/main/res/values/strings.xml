@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AnkoSqlite</string>
+    <string name="title_activity_lihat_data">LihatDataActivity</string>
+    <string name="title_activity_contoh">contoh</string>
+</resources>
